@@ -2,6 +2,8 @@
 
 I'm James Hong, a second-year student studying Computing and Financial Management at University of Waterloo.
 
+*If you define the problem correctly, you almost have the solution.* - Steve Jobs
+
 <!--
 **jameshjs/jameshjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
