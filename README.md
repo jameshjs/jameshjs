@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,js,tensorflow,sklearn,opencv,nodejs,mysql,html,mongodb,linux,react.flask,fastapi,django,docker,github,c,r,selenium,php,swift,svelte,tailwind,aws,anaconda" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,tensorflow,sklearn,opencv,nodejs,mysql,html,mongodb,linux,react,flask,fastapi,django,docker,github,c,r,selenium,php,swift,svelte,tailwind,aws,anaconda" />
   </a>
 </p>
 
