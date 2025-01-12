@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I'm James Hong, a second-year student studying Computing and Financial Management at University of Waterloo.
+I'm James Hong, a second-year student studying Computer Science and Finance (Double Major) at University of Waterloo.
+
+- 🌱 I’m currently learning Software Development, AI Agent Development
+- 💬 Ask me about Financial Market & Instruments, Data Analysis, Machine Learning
+- 📫 How to reach me: jameshjs85@gmail.com
+- ⚡ Fun fact: I enjoy fencing in my free time
 
 *If you define the problem correctly, you almost have the solution.* - Steve Jobs
 
@@ -20,7 +25,8 @@ Here are some ideas to get you started:
 -->
 
 ## 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/https://www.linkedin.com/in/james-hong-256571204/) 
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/https://www.linkedin.com/in/james-hong-256571204/)
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](jameshjs85@gmail.com)
 
 # 💻 Tech Stack:
 <p align="center">
