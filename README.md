@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 ## 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/https://www.linkedin.com/in/james-hong-256571204/)
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](jameshjs85@gmail.com)
 
 # 💻 Tech Stack:
 <p align="center">
