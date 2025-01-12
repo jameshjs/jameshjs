@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm James Hong, a second-year student studying Computer Science and Finance (Double Major) at University of Waterloo.
+I'm James Hong, a third-year student studying Computer Science and Finance (Double Major) at University of Waterloo.
 
 - 🌱 I’m currently learning Software Development, AI Agent Development
 - 💬 Ask me about Financial Market & Instruments, Data Analysis, Machine Learning
