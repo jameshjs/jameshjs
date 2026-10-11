@@ -2,8 +2,8 @@
 
 I'm James Hong, a fourth-year student studying Computer Science and Finance (Double Major) at University of Waterloo.
 
-- 🌱 I’m currently learning Software Development, AI Agent Development
-- 💬 Ask me about Financial Market & Instruments, Data Analysis, Machine Learning
+- 🌱 I’m currently learning AI inference, AI Agent Development
+- 💬 Ask me about Financial Market & Instruments, Machine Learning, Software Development
 - 📫 How to reach me: jameshjs85@gmail.com
 - ⚡ Fun fact: I enjoy fencing in my free time
 
