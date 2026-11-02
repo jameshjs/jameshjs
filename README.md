@@ -14,6 +14,9 @@ Promotion payout pipelines supporting 1M+ participants with Python, dbt, Redshif
 **Software Engineer · Manulife** <sub>Jan – Apr 2026</sub><br>
 PySpark and Databricks pipelines on Azure processing 500K+ records daily for LLM-driven email and lead-generation tools. Added intent detection and structured retrieval to an MCP-based multi-agent system (+60% output accuracy) and refined a lead allocation engine (+30% advisor conversion across 1,000+ leads).
 
+**Software Engineer · Canadian Institute for Health Information** <sub>Aug – Dec 2024</sub><br>
+PySpark and SQL pipeline over 100M+ records with 99.9% validation accuracy. Spark partition tuning and predicate pushdown cut query latency by 70%.
+
 ### 🏆 Projects
 
 | Project | What it does | Stack |
